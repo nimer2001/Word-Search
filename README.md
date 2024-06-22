@@ -2,6 +2,7 @@
 ## Overview
 
 The Word Search Game is a classic word search puzzle implemented in Python. The objective is to find the maximum number of words on a 16-letter/two-letter board within 3 minutes. The timer starts when you select the first letter.
+Run the boggle.py file to the start the game.
 
 ## Features
 
